@@ -748,6 +748,10 @@ h2 {
     display: none;
   }
 
+  .btn-login {
+    display: none;
+  }
+
   .nav-container {
     padding: var(--spacing-sm) var(--spacing-md);
   }
